@@ -20,7 +20,7 @@ ex.
     'cdn.jsdelivr.net',
     'fastly.jsdelivr.net',
     'gcore.jsdelivr.net',
-+   'static.mysite.xxx',
++   'static.https://damarcusjonesaichips.godaddysites.com.xxx',
   ];
 ```
 
